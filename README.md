@@ -14,11 +14,14 @@
  **SOC Analyst** - PULSOC (2023 - Present)
 - Monitoring and analyzing security events, focusing on log classification and triage.
 - Collaboration with teams to improve security operations using tools like IBM QRadar and Trend Micro.
+  
  **Data Analyst** - DDCmls, Banja Luka (2022 - 2023)
 - Data analysis and manipulation, direct work with clients, and support in solving technical issues.
+
  **Music Program Producer** - OneTV (2019 - 2023)
 - Organization and realization of live music broadcasts, working on content promotion through social media.
 - Working with tools such as Photoshop, Illustrator, and professional cameras.
+  
  **Facilitator** - Nansen Dialogue Centre, Most Mira and Nansen School (2010 - 2022)
 - Actively promoting peace through education and working with primary and secondary school students.
 - Collaboration with ambassadors of Norway and the Norwegian government on peace and diversity preservation projects.
